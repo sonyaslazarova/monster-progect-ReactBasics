@@ -1,0 +1,17 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  background-color: #0ccac4;
+  color: white;
+  border-radius: 5%;
+  opacity: 50%;
+}
+
+.search::placeholder {
+  color: white;
+}
